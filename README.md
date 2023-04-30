@@ -53,11 +53,11 @@ All EnerQuery project files can be downloaded at https://github.com/lias-laborat
 
 ## Software licence agreement
 
-* Details the license agreement of EnerQuery: [LICENCE](LICENCE)
+* Details the license agreement of EnerQuery: [LICENSE](LICENSE)
 
 ## Historic Contributors
 
 * [Ladjel BELLATRECHE](https://www.lias-lab.fr/members/bellatreche/) (LIAS/ISAE-ENSMA)
-* [Ahcene BOUKORCA](https://www.lias-lab.fr/fr/members/ahceneboukorca/) (LIAS/ISAE-ENSMA)
-* [Zoé FAGET](https://www.lias-lab.fr/fr/members/zoefaget/) (LIAS/University of Poitiers)
+* [Ahcene BOUKORCA](https://www.lias-lab.fr/members/ahceneboukorca/) (LIAS/ISAE-ENSMA)
+* [Zoé FAGET](https://www.lias-lab.fr/members/zoefaget/) (LIAS/University of Poitiers)
     
