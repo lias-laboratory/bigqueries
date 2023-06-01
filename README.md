@@ -51,7 +51,7 @@ All EnerQuery project files can be downloaded at https://github.com/lias-laborat
 
 * Ladjel BELLATRECHE, Cheikh SALMI, Sebastian Bress, Amira KERKAD, Ahcène BOUKORCA, Jalil Boukhobza , How to Exploit the Device Diversity and Database Interaction to Propose a Generic Cost Model, 17th International Database Engineering & Applications Symposium (IDEAS '13), edited by BytePress/ACM and ACM's Digital Library, 2013
 
-## Software licence agreement
+## Software license agreement
 
 * Details the license agreement of EnerQuery: [LICENSE](LICENSE)
 
